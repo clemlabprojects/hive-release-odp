@@ -1,1 +1,1 @@
-# Apache Hive built in ODP - CLEMLAB
+HIVE Source Repositories for ODP
